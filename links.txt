@@ -1,0 +1,9 @@
+# the SQL database
+https://adminer.cs50.net/?pgsql=ec2-54-247-170-5.eu-west-1.compute.amazonaws.com&username=lgbdaxiybqgwgl&db=dgu8il0vki0hk&ns=public&select=users
+
+# the webapp site
+http://127.0.0.1:5000/search/0552154288
+
+# the heroku site
+https://data.heroku.com/datastores/4039b920-06a8-40f4-90d0-3759bb28fe36
+
